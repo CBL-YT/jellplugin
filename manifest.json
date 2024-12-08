@@ -1,0 +1,20 @@
+[
+    {
+    "guid": "d106ebe6-9ca8-4fbc-9cd1-a92a213da9f9",
+    "name": "LrcLib",
+    "description": "Download lyrics from https://lrclib.net/\n",
+    "overview": "Download lyrics from https://lrclib.net/",
+    "owner": "crobibero",
+    "category": "Notifications",
+    "versions": [
+      {
+        "version": "2.0.0.0",
+        "changelog": "### Dependency updates ###\n- Update dependency Microsoft.Extensions.Http to 8.0.1 (#8) @renovate",
+        "targetAbi": "10.10.0.0",
+        "sourceUrl": "https://repo.jellyfin.org/files/plugin/lrclib/lrclib_2.0.0.0.zip",
+        "checksum": "f329ab0dc589c0ac1aa82522e278d49e",
+        "timestamp": "2024-10-29T00:27:05Z"
+      }
+    ]
+  }
+]
